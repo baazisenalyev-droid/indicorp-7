@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+button{
+    border: none;
+    background: none;
+}
+input{
+    outline: none;
+    border: none;
+}
+ul, ol{
+    list-style: none;
+}
+html{
+    /* behavior-поведение */
+    scroll-behavior: smooth;
+}
